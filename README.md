@@ -1,2 +1,2 @@
 # livraria-alura
-API Rest  de NodeJs com Express e MongoDB.
+API Rest em NodeJs, Express e MongoDB. Projeto realizado em treinamento Alura.
